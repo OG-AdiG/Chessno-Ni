@@ -1,0 +1,50 @@
+# ------------------------------------------------------------------------------
+# Pliki generowane przez Unity/IDE
+# ------------------------------------------------------------------------------
+
+# Zewnętrzny folder biblioteki (duże pliki tymczasowe, niepotrzebne w repo)
+/Library/
+
+# Foldery tymczasowe
+/Temp/
+/Obj/
+/Build/
+
+# Pliki generowane przez Visual Studio, Rider i inne IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.pdb
+*.pid
+*.log
+*.meta.orig
+
+# ------------------------------------------------------------------------------
+# Ustawienia lokalne/personalne (nie dodawać do repo)
+# ------------------------------------------------------------------------------
+
+# Ustawienia projektu lokalne
+/UserSettings/
+
+# Lokalne pakiety
+/Packages/manifest.json.meta
+/Packages/packages-lock.json.meta
+/Packages/manifest.json
+/Packages/packages-lock.json
+
+# Pliki zrzutu pamięci
+/CrashReports/
+
+# ------------------------------------------------------------------------------
+# Pliki zrzutu oświetlenia, cache, etc.
+# ------------------------------------------------------------------------------
+
+# Cache dla shaderów (może być duży)
+/shadercache/
+
+# Pliki zrzutu danych oświetlenia
+/Assets/LightmapData/
